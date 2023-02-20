@@ -7,5 +7,5 @@ Test task for CODICA
 1) docker-compose build
 2) docker-compose up
 3) url http://localhost:8080
-# Docs for this API
+# Docs for this API for local testing
 https://app.swaggerhub.com/apis/BOGDANKUCHERUK7/codica-test/1.0.0
